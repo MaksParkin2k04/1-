@@ -67,6 +67,9 @@
         <mxCell id="UqizL7osx7dB-_0weBAN-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="9" y="290" width="810" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-39" value="Документы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry y="360" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
