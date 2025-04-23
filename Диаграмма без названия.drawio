@@ -70,6 +70,30 @@
         <mxCell id="UqizL7osx7dB-_0weBAN-39" value="Документы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry y="360" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-40" value="Диагностическая карта" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="290" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-41" value="Дата" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="26" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-42" value="Номер" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="56" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-43" value="Автомобиль (справочникСсылка.Автомобили)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="86" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-44" value="ОператорТО (справочникСсылка.ОператорыТО)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="116" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-45" value="СтанцияТО (справочникСсылка.СтанцииТО)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="142" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-46" value="Срок действия" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="172" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqizL7osx7dB-_0weBAN-48" value="Item" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="UqizL7osx7dB-_0weBAN-40">
+          <mxGeometry y="202" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
